@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ToDoList>
+                            
+    
+    
+    
+    
+    
+    <Task hiddenStatus="done" id="1">
+                                                        
+        
+        
+        
+        
+        
+        <Caption>Заголовок задачи</Caption>
+                                                        
+        
+        
+        
+        
+        
+        <Description>Описание задачи</Description>
+                                                        
+        
+        
+        
+        
+        
+        <Priority>8</Priority>
+                                                        
+        
+        
+        
+        
+        
+        <Deadline>2017-02-12</Deadline>
+                                                        
+        
+        
+        
+        
+        
+        <Status>done</Status>
+                                                        
+        
+        
+        
+        
+        
+        <Complete>2017-02-19</Complete>
+                                                    
+    
+    
+    
+    
+    
+    </Task>
+                            
+    
+    
+    
+    
+    
+    <Task hiddenStatus="new" id="2">
+                                                        
+        
+        
+        
+        
+        
+        <Caption>qwer</Caption>
+                                                        
+        
+        
+        
+        
+        
+        <Description>qweasd</Description>
+                                                        
+        
+        
+        
+        
+        
+        <Priority>10</Priority>
+                                                        
+        
+        
+        
+        
+        
+        <Deadline>2022-02-12</Deadline>
+                                                        
+        
+        
+        
+        
+        
+        <Status>done</Status>
+                                                        
+        
+        
+        
+        
+        
+        <Complete>2024-03-06</Complete>
+                                                    
+    
+    
+    
+    
+    
+    </Task>
+                        
+    
+    
+    
+    
+    
+    <Task hiddenStatus="new" id="3">
+                                                
+        
+        
+        
+        
+        <Caption>12345</Caption>
+                                                
+        
+        
+        
+        
+        <Description>qwer</Description>
+                                                
+        
+        
+        
+        
+        <Priority>2</Priority>
+                                                
+        
+        
+        
+        
+        <Deadline>2024-03-07</Deadline>
+                                                
+        
+        
+        
+        
+        <Status>new</Status>
+                                                
+        
+        
+        
+        
+        <Complete>0</Complete>
+                                            
+    
+    
+    
+    
+    </Task>
+                    
+    
+    
+    
+    
+    <Task hiddenStatus="new" id="4">
+                                        
+        
+        
+        
+        <Caption>wqewetr</Caption>
+                                        
+        
+        
+        
+        <Description>qwerew</Description>
+                                        
+        
+        
+        
+        <Priority>2</Priority>
+                                        
+        
+        
+        
+        <Deadline>2024-07-08</Deadline>
+                                        
+        
+        
+        
+        <Status>done</Status>
+                                        
+        
+        
+        
+        <Complete>2024-03-06</Complete>
+                                    
+    
+    
+    
+    </Task>
+                
+
+
+
+</ToDoList>

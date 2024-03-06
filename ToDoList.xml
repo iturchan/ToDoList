@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ToDoList>
+        
+    <Task caption="Заголовок задачи" id="1">
+                
+        <Description>Описание задачи</Description>
+                
+        <Priority>1</Priority>
+                
+        <Deadline>2017-02-12</Deadline>
+                
+        <Status>done</Status>
+                
+        <Complete>2017-02-19</Complete>
+            
+        <paradigm>oop</paradigm>
+    </Task>
+        
+    <Task caption="Заголовок еще одной задачи" id="2">
+                
+        <Description>Описание еще одной задачи</Description>
+                
+        <Priority>10</Priority>
+                
+        <Deadline>2022-02-12</Deadline>
+                
+        <Status>new</Status>
+            
+        <paradigm>oop</paradigm>
+    </Task>
+    
+</ToDoList>
