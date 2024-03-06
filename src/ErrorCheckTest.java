@@ -9,8 +9,8 @@ public class ErrorCheckTest {
         assertTrue(ErrorCheck.isValidDateCheck("2024-12-12"));
     }
     @Test
-    public void idUpdateErrorCheckTest(){
-
+    public void statusDoneCheckTest(){
+        assertFalse(ErrorCheck.statusDoneCheck("in progress"));
+        assertTrue(ErrorCheck.statusDoneCheck("done"));
     }
-
 }
